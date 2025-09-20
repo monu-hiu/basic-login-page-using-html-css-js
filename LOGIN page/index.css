@@ -1,0 +1,70 @@
+body{
+      background: linear-gradient(135deg,#F0F4F8,#f0e);
+}
+h1{
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#logo{
+    width:80px;
+    height:30px;
+}
+#logo-2{
+    width:60px;
+    height:20px;
+}
+#logo-3{
+    width:80px;
+    height:40px;
+}
+.container{
+    width:250px;
+    margin:0 auto;
+    padding:20px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    background-color:#f9f9f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+
+}
+#forgot{
+    color:blue;
+    cursor:pointer;
+    text-decoration:underline;
+    font-size:12px;
+    float:right;
+}
+button{
+    width: 100%;
+    padding:0.8rem 1rem;
+    background-color:blue;
+    color:#fff;
+    border-radius: 8px;
+    border:none;
+    cursor:pointer;
+    font-size:13px;
+}
+button:hover{
+    background-color:darkblue;
+}
+#p{
+    text-align: center;
+    color: #333;
+    font-size: 14px;
+}
+#p2{
+    text-align: center;
+    color: #333;
+    font-size: 14px;
+}
+#username, #password{
+    width:100%;
+    padding:0.5rem;
+    margin-bottom:10px;
+    border:1px solid #ccc;
+    border-radius:4px;
+    box-sizing:border-box;
+}
